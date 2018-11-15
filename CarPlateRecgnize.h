@@ -5,7 +5,8 @@
 #ifndef OPENCVCARRECGNIZE_CARPLATERECGNIZE_H
 #define OPENCVCARRECGNIZE_CARPLATERECGNIZE_H
 
-#include "CarPlateLocation.h"
+#include "CarSobelPlateLocation.h"
+#include "CarColorPlateLocation.h"
 #include <string>
 
 using namespace std;
@@ -18,7 +19,8 @@ public:
 
     string plateRecgnize(Mat src);
 private:
-    CarPlateLocation *plateLocation = 0;
+    CarSobelPlateLocation *sobelPlateLocation = 0;
+    CarColorPlateLocation *colorPlateLocation = 0;
 
 };
 

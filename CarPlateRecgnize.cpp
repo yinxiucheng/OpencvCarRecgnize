@@ -5,15 +5,21 @@
 #include "CarPlateRecgnize.h"
 
 CarPlateRecgnize::CarPlateRecgnize() {
-    plateLocation = new CarPlateLocation();
+    sobelPlateLocation = new CarSobelPlateLocation();
+    colorPlateLocation = new CarColorPlateLocation();
 }
 
 
 CarPlateRecgnize::~CarPlateRecgnize() {
     //释放
-    if (!plateLocation) {
-        delete plateLocation;
-        plateLocation = 0;
+    if (!sobelPlateLocation) {
+        delete sobelPlateLocation;
+        sobelPlateLocation = 0;
+    }
+
+    if (!colorPlateLocation) {
+        delete colorPlateLocation;
+        colorPlateLocation = 0;
     }
 }
 
@@ -24,9 +30,13 @@ CarPlateRecgnize::~CarPlateRecgnize() {
 */
 string CarPlateRecgnize::plateRecgnize(Mat src) {
 
-    Mat plate;
-    //定位
-    plateLocation->location(src, plate);
+    vector< Mat > sobel_plates;
+    //sobel定位
+    sobelPlateLocation->location(src, sobel_plates);
+
+    //颜色定位
+    vector< Mat > color_plates;
+    colorPlateLocation->location(src, color_plates);
 
     return string("123");
 }

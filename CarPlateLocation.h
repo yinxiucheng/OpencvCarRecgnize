@@ -2,32 +2,19 @@
 // Created by xiucheng yin on 2018/11/15.
 //
 
-#ifndef OPENCVFACE_CARPLATELOCATION_H
-#define OPENCVFACE_CARPLATELOCATION_H
-
-#include <opencv2/opencv.hpp>
-#include <vector>
-#include <string>
-
-using namespace std;
-using namespace cv;
+#ifndef OPENCVCARRECGNIZE_CARPLATELOCATION_H
+#define OPENCVCARRECGNIZE_CARPLATELOCATION_H
 
 
 class CarPlateLocation {
 public:
     CarPlateLocation();
-    ~CarPlateLocation();
+    virtual ~CarPlateLocation();//父类的虚函数
 
-    void location(Mat mat, Mat& dst);
+protected:
 
-    int verifySizes(RotatedRect rect);
 
-    void tortuosity(Mat src, vector<RotatedRect> &rects, vector<Mat> &dst_plates);
-
-    void safeRect(Mat src, RotatedRect rect, Rect2f &dst_rect);
-
-    void rotation(Mat src, Mat &dst, Size rect_size, Point2f center, double angle);
 };
 
 
-#endif //OPENCVFACE_CARPLATELOCATION_H
+#endif //OPENCVCARRECGNIZE_CARPLATELOCATION_H
