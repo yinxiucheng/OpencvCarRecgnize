@@ -11,7 +11,6 @@ CarSobelPlateLocation::CarSobelPlateLocation() {
 
 }
 
-
 CarSobelPlateLocation::~CarSobelPlateLocation() {
 
 }

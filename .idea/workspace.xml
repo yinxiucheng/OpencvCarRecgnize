@@ -12,67 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17105b03-38c1-4aca-85f5-27d8c491d79f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/CarColorPlateLocation.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/CarPlateRecgnize.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/CarRecgnize.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/CarSobelPlateLocation.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvFace.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvFace.dir/CarPlateLocation.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvFace.dir/CarPlateRecgnize.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvFace.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvFace.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvFace.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvFace.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvFace.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvFace.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvFace.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvFace.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/OpencvCarRecgnize" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/OpencvCarRecgnize.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/OpencvFace.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarColorPlateLocation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CarColorPlateLocation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarColorPlateLocation.h" beforeDir="false" afterPath="$PROJECT_DIR$/CarColorPlateLocation.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarPlateLocation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CarPlateLocation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarPlateLocation.h" beforeDir="false" afterPath="$PROJECT_DIR$/CarPlateLocation.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarPlateRecgnize.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CarPlateRecgnize.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarPlateRecgnize.h" beforeDir="false" afterPath="$PROJECT_DIR$/CarPlateRecgnize.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRecgnize.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CarRecgnize.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarSobelPlateLocation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CarSobelPlateLocation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarSobelPlateLocation.h" beforeDir="false" afterPath="$PROJECT_DIR$/CarSobelPlateLocation.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/CarPlateRecgnize.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/CarPlateRecgnize.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/CarRecgnize.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir/CarRecgnize.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/OpencvCarRecgnize" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/OpencvCarRecgnize" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,32 +32,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CarPlateRecgnize.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CarPlateRecgnize.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CarPlateRecgnize.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CarRecgnize.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CarRecgnize.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CarColorPlateLocation.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CarColorPlateLocation.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="21" selection-start-line="6" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="4305">
+              <caret line="287" column="25" lean-forward="true" selection-start-line="287" selection-start-column="25" selection-end-line="287" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -118,11 +44,50 @@
       <file leaf-file-name="CarPlateRecgnize.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CarPlateRecgnize.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#140#174#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarSobelPlateLocation.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CarSobelPlateLocation.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarRecgnize.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CarRecgnize.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarColorPlateLocation.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CarColorPlateLocation.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -142,9 +107,9 @@
         <option value="$PROJECT_DIR$/CarPlateLocation.cpp" />
         <option value="$PROJECT_DIR$/CarSobelPlateLocation.h" />
         <option value="$PROJECT_DIR$/CarColorPlateLocation.h" />
-        <option value="$PROJECT_DIR$/CarSobelPlateLocation.cpp" />
-        <option value="$PROJECT_DIR$/CarPlateRecgnize.h" />
         <option value="$PROJECT_DIR$/CarColorPlateLocation.cpp" />
+        <option value="$PROJECT_DIR$/CarPlateRecgnize.h" />
+        <option value="$PROJECT_DIR$/CarSobelPlateLocation.cpp" />
         <option value="$PROJECT_DIR$/CarRecgnize.cpp" />
         <option value="$PROJECT_DIR$/CarPlateRecgnize.cpp" />
       </list>
@@ -159,8 +124,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="86" />
+    <option name="x" value="18" />
     <option name="y" value="23" />
     <option name="width" value="1407" />
     <option name="height" value="873" />
@@ -220,7 +186,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542255781923</updated>
-      <workItem from="1542255783318" duration="18503000" />
+      <workItem from="1542255783318" duration="30354000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;添加颜色定位&quot;">
       <created>1542269362631</created>
@@ -229,27 +195,34 @@
       <option name="project" value="LOCAL" />
       <updated>1542269362631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;SVM基于HOG提取的特征将 sobel跟color收集来的候选图片进行评测&quot;">
+      <created>1542274767061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542274767061</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18503000" />
+    <option name="totallyTimeSpent" value="30354000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="86" y="23" width="1407" height="873" extended-state="0" />
+    <frame x="18" y="23" width="1407" height="873" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963924" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963924" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" weight="0.6121134" />
       <window_info anchor="bottom" id="CMake" weight="0.36340207" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.253866" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29639176" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.26417527" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33118558" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -259,17 +232,17 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.253866" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.29639176" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24963924" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24963924" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.6121134" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.26417527" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.6121134" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.33118558" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="3" />
@@ -285,8 +258,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="&quot;添加颜色定位&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;添加颜色定位&quot;" />
+    <MESSAGE value="&quot;SVM基于HOG提取的特征将 sobel跟color收集来的候选图片进行评测&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;SVM基于HOG提取的特征将 sobel跟color收集来的候选图片进行评测&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -294,30 +269,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///usr/local/Cellar/opencv/3.4.2/include/opencv2/imgproc.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="1401" column="8" selection-start-line="1401" selection-start-column="8" selection-end-line="1401" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CarSobelPlateLocation.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CarPlateLocation.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#139#168#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -328,13 +283,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CarSobelPlateLocation.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CarPlateLocation.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -342,37 +290,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/local/Cellar/opencv/3.4.2/include/opencv2/imgproc.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="2827" column="6" lean-forward="true" selection-start-line="2827" selection-start-column="6" selection-end-line="2827" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarPlateLocation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarColorPlateLocation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stddef.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="61" column="28" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CarPlateRecgnize.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#140#174#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CarPlateRecgnize.cpp">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarSobelPlateLocation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CarRecgnize.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CarColorPlateLocation.cpp">
+    <entry file="file://$PROJECT_DIR$/CarPlateRecgnize.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" selection-start-line="6" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="4305">
+          <caret line="287" column="25" lean-forward="true" selection-start-line="287" selection-start-column="25" selection-end-line="287" selection-end-column="25" />
         </state>
       </provider>
     </entry>
