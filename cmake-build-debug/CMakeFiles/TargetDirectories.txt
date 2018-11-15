@@ -1,0 +1,3 @@
+/Users/xiuchengyin/Documents/Tina-NDK/OpencvCarRecgnize/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xiuchengyin/Documents/Tina-NDK/OpencvCarRecgnize/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xiuchengyin/Documents/Tina-NDK/OpencvCarRecgnize/cmake-build-debug/CMakeFiles/OpencvCarRecgnize.dir

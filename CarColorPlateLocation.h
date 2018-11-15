@@ -5,15 +5,9 @@
 #ifndef OPENCVCARRECGNIZE_CARCOLORPLATERECGNIZE_H
 #define OPENCVCARRECGNIZE_CARCOLORPLATERECGNIZE_H
 
-#include <opencv2/opencv.hpp>
-#include <vector>
-#include <string>
+#include "CarPlateLocation.h"
 
-using namespace std;
-using namespace cv;
-
-
-class CarColorPlateLocation {
+class CarColorPlateLocation: public CarPlateLocation {
 public:
     CarColorPlateLocation();
     ~CarColorPlateLocation();
