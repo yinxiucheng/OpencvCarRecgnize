@@ -25,7 +25,7 @@ void CarSobelPlateLocation::location(Mat src, vector<Mat> &dst) {
     Mat gray;
     //2、灰度化 去掉颜色 因为它对于我们这里没用  降噪
     cvtColor(blur, gray, COLOR_BGR2GRAY);
-    imshow("灰度", gray);
+//    imshow("灰度", gray);
 
     Mat sobel_16;
     //3、 边缘检测 让车牌更加突出  在调用时需要以16位来保存数据 在后续操作 以及显示的时候需要转回8位
@@ -39,14 +39,14 @@ void CarSobelPlateLocation::location(Mat src, vector<Mat> &dst) {
     Mat shold;
     //大律法   最大类间算法
     threshold(sobel, shold, 0, 255, THRESH_OTSU + THRESH_BINARY);
-    imshow("二值", shold);
+//    imshow("二值", shold);
 
     //5、闭操作
     // 将相邻的白色区域扩大 连接成一个整体
     Mat close;
     Mat element = getStructuringElement(MORPH_RECT, Size(17, 3));
     morphologyEx(shold, close, MORPH_CLOSE, element);
-    imshow("闭操作", close);
+//    imshow("闭操作", close);
 
     //6、查找轮廓
     //获得初步筛选车牌轮廓================================================================

@@ -96,9 +96,10 @@ string CarPlateRecgnize::plateRecgnize(Mat src) {
 //        char name[100];
 //        sprintf(name, "候选车牌%d", i);
 //        imshow(name, plate);
+//        waitKey();
 
         float score = svm->predict(samples, noArray(), StatModel::Flags::RAW_OUTPUT);
-        printf("评分：%f\n", score);
+//        printf("评分：%f\n", score);
         if (score < minScore) {
             minScore = score;
             index = i;
@@ -114,7 +115,7 @@ string CarPlateRecgnize::plateRecgnize(Mat src) {
     if (index >= 0) {
         dst = plates[index].clone();
     }
-//    imshow("车牌", dst);
+    imshow("车牌", dst);
 //    waitKey();
 //    释放
     for (Mat p : plates) {
